@@ -1,19 +1,28 @@
-# Richie Frost  
-## Software Engineer (and Data Scientist?) at Microsoft 
-#### I have a job title at Microsoft, and it's Software Engineer. 
+# Richie Frost
 
-But my day-to-day is more like either a machine learning engineer or a data scientist. 
+Senior software engineer building ML inference infrastructure at Dropbox.
 
-I'm not the kind of person (currently) that has a PhD with high quality publications. My work is 10% theoretical and 90% practical, being on an engineering team. But within that team, my role is to find insights within the data that can be exposed to the rest of our organization (Core Services Engineering and Operations), as well as Microsoft's partners. That's usually in the form of building machine learning and statistical models that are then consumed within Microsoft.
+## What I work on
 
-I feel like I should point out that I'm a recent university hire, and would love to help more people get a job at Microsoft, because it's been one of the best things that's happened to me and my family. I graduated from the University of Utah in December 2018 with a BS/MS in Computer Science and Computing. (The "Computing" degree is one I haven't seen around much, so I feel like I should explain what it is. Basically, I did a lot of data-focused classes for my Master's, mostly in NLP and text mining, with a capstone project at the end.)
+I build the platform that runs ML models at Dropbox - multi-tenant inference on Kubernetes, with the fun that comes with it: latency, GPU utilization, cost, availability, tenant isolation, and getting engineers across the company to actually adopt the thing. Half distributed systems, half platform-as-product.
 
-[Resume](https://richiefrost.github.io/resume.pdf)  
-[LinkedIn](https://www.linkedin.com/in/richardsfrost/)  
+## Consulting
 
-## Research  
-I did a little research in school at the University of Utah. Here's what came out of it:
-- [AIPro](http://www.cs.utah.edu/~deb/aipro/) - An open source data processing framework for AI. Presented for demo at ICDE 2019 (My Master's degree capstone project) 
-- [Compass](http://www.kdd.org/kdd2017/papers/view/compass-spatio-temporal-sentiment-analysis-of-us-election) - Spatiotemporal Sentiment Analysis of the US Presidential Election. Accepted at KDD 2017  
-- [Estorm.org](http://estorm.org/) - Interactive data visualization for the Compass project  
-- [Undergraduate Thesis](https://richiefrost.github.io/thesis.pdf) - Analysis of Scalable Topic Modeling in Latent Dirichlet Allocation  
+If your team is building or scaling an internal ML inference platform and running into the messy middle - adoption, multi-tenancy, GPU economics, serving reliability - I'm open to consulting on the right engagements. Reach out: [richard.scott.frost@gmail.com](mailto:richard.scott.frost@gmail.com).
+
+## Background
+
+Senior Software Engineer at Dropbox (2022–present), previously SWE at Microsoft. BS/MS in Computer Science from the University of Utah, with a master's focus on NLP and data science.
+
+## Research
+
+A few things from grad school:
+
+- [Compass](http://www.kdd.org/kdd2017/papers/view/compass-spatio-temporal-sentiment-analysis-of-us-election) - Spatiotemporal sentiment analysis of the 2016 US presidential election. KDD 2017.
+- [AIPro](https://www.computer.org/csdl/proceedings-article/icde/2019/747400b980/1aDSRSNEWQM) - Open source data processing framework for AI / data science as a service. ICDE 2019. (My master's thesis.)
+- [Undergraduate Thesis](https://richiefrost.github.io/thesis.pdf) - Scalable topic modeling in Latent Dirichlet Allocation with distributed systems and message passing.
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/richardsfrost/)
+- [GitHub](https://github.com/richiefrost)
