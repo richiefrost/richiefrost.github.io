@@ -9,9 +9,6 @@ author:
   bio: Senior software engineer building ML inference infrastructure at Dropbox.
   avatar: /assets/images/avatar.jpg
   links:
-    - label: Email
-      icon: fas fa-fw fa-envelope
-      url: mailto:richard.scott.frost@gmail.com
     - label: LinkedIn
       icon: fab fa-fw fa-linkedin
       url: https://www.linkedin.com/in/richardsfrost/
