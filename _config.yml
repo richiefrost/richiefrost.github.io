@@ -1,1 +1,27 @@
-theme: jekyll-theme-minimal
+title: Richie Frost
+description: Senior software engineer building ML inference infrastructure at Dropbox.
+
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+
+author:
+  name: Richie Frost
+  bio: Senior software engineer building ML inference infrastructure at Dropbox.
+  avatar: /assets/images/avatar.jpg
+  links:
+    - label: Email
+      icon: fas fa-fw fa-envelope
+      url: mailto:richard.scott.frost@gmail.com
+    - label: LinkedIn
+      icon: fab fa-fw fa-linkedin
+      url: https://www.linkedin.com/in/richardsfrost/
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/richiefrost
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-sitemap

@@ -1,4 +1,7 @@
-# Richie Frost
+---
+layout: single
+author_profile: true
+---
 
 Senior software engineer building ML inference infrastructure at Dropbox.
 
@@ -22,7 +25,3 @@ A few things from grad school:
 - [AIPro](https://www.computer.org/csdl/proceedings-article/icde/2019/747400b980/1aDSRSNEWQM) - Open source data processing framework for AI / data science as a service. ICDE 2019. (My master's thesis.)
 - [Undergraduate Thesis](https://richiefrost.github.io/thesis.pdf) - Scalable topic modeling in Latent Dirichlet Allocation with distributed systems and message passing.
 
-## Elsewhere
-
-- [LinkedIn](https://www.linkedin.com/in/richardsfrost/)
-- [GitHub](https://github.com/richiefrost)
