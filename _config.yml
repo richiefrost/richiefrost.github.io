@@ -1,12 +1,12 @@
 title: Richie Frost
-description: Senior software engineer building ML inference infrastructure at Dropbox.
+description: Independent engineer. ML infrastructure, AI spend, and getting software ready for production.
 
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 
 author:
   name: Richie Frost
-  bio: Senior software engineer building ML inference infrastructure at Dropbox.
+  bio: Independent engineer. Formerly ML inference at Dropbox and ML/data science at Microsoft.
   avatar: /assets/images/avatar.jpg
   links:
     - label: LinkedIn
@@ -15,6 +15,21 @@ author:
     - label: GitHub
       icon: fab fa-fw fa-github
       url: https://github.com/richiefrost
+
+# Consulting site settings
+# TODO before going live: replace with your real Cal.com / Calendly link
+booking_url: https://cal.com/REPLACE-ME
+consulting:
+  spend_review: "4,500"
+  readiness_review: "3,500"
+  hourly: "200"
+
+exclude:
+  - vendor
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 
 plugins:
   - jekyll-remote-theme
